@@ -9,7 +9,5 @@ Calculate systematicity scores from game-logs (Json) by using HMM algorithm
 
 ...
 
-#### Libraries
 
-....
 
