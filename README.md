@@ -2,13 +2,13 @@
 Calculate systematicity scores from game-logs (Json) by using HMM algorithm
 
 ## General Description
-This is the 1st study in IGBL (Indicator of Game-Based Learning) project.
+This is the 1st study (B1) in IGBL (Indicator of Game-Based Learning) project.
 
 It is published as:
 Lee, J. Y., Donkers, J., Jarodzka, H., & Van Merriënboer, J. J. (2019). How prior knowledge affects problem-solving performance in a medical simulation game: Using game-logs and eye-tracking. Computers in Human Behavior, 99, 268-277.
 
 
-## Description of the project
+## Acknowledgement
 This work was supported by the Netherlands Organization for Scientific Research (NWO) [grant numbers 055.16.117]. 
 (https://www.nwo.nl/en/projects/05516117)
 
